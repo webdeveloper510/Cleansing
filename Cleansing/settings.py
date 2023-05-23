@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 #changes
 #changes
+#changes
 
 #changes
 from pathlib import Path
